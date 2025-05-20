@@ -1,4 +1,4 @@
-# VPC Networking Infrastructure Lab
+# Infrastructure Preview
 
 This repository documents my implementation of the "VPC Networking Infrastructure" lab, where I deployed and managed a Jenkins Continuous Integration environment using Google Cloud Marketplace.
 
